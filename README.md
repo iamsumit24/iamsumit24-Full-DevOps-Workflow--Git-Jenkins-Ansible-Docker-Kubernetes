@@ -54,7 +54,7 @@ Follow the detailed SSH setup steps to enable password-less SSH between Jenkins 
 ✔️ Proper permission setup  
 ✔️ Adding remote host to known_hosts
 
-*(Refer to the Medium blog for complete steps.)*
+
 
 ---
 
